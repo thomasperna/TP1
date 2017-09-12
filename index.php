@@ -12,5 +12,8 @@ and open the template in the editor.
     </head>
     <body>
         <h1>Ceci est le tp1</h1>
+        <!-- hé blaireau tu t'es trompé dans la balise H1 -->
+        
+        <h1>Voici la correction</h1>
     </body>
 </html>
